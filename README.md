@@ -1,3 +1,7 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/r43lf4ia8kgk9nqr?svg=true)](https://ci.appveyor.com/project/juliesoboleva/react-calendar)
+
+[Ссылка на Github Pages](https://juliesoboleva.github.io/react-calendar/)
+
 Календарь
 ===
 
