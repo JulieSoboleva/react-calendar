@@ -1,4 +1,4 @@
-import getDateObject from "./getDateObject"
+import getDateObject from "../helpers/getDateObject"
 import TableBody from './TableBody'
 import PropTypes from 'prop-types'
 

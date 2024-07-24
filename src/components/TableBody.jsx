@@ -1,4 +1,4 @@
-import getDays from "./getDays"
+import getDays from "../helpers/getDays"
 import TableRow from './TableRow'
 import PropTypes from 'prop-types'
 
